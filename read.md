@@ -1,0 +1,1 @@
+# Wordpress Init Project (Wordpress + Mysql + Phpmyadmin)
